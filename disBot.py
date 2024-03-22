@@ -147,4 +147,4 @@ async def on_member_remove(member):
 
 
 
-client.run('MTE5ODA4NTY0Mjk3MDc0Mjg5NA.GWWzkC.nwBweA-1aScJd6HjiSuWL7stfzbDyJJn55-pHo')
+client.run('discord key')
