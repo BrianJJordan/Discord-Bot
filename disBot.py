@@ -143,8 +143,4 @@ async def on_member_remove(member):
     await channel.send("We didn't want you here anyways")
 
 
-
-
-
-
 client.run('discord key')
